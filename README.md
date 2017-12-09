@@ -1,10 +1,11 @@
 # TwitterClone
-The repo for HPDF.
+The repo for HPDF.<br>
 After cloning the repo, please use the `npm install`.
-##Install
+
+## Install
 
 npm install
 
-##Usage
+## Usage
 
 npm start
